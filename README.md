@@ -6,9 +6,9 @@
 
 ``` bash
 # Instale as dependências do projeto
-npm install
+sudo npm install
 
 # Irá rodar a aplicação em localhost:8080
-npm run dev
+sudo npm run dev
 
 ```
